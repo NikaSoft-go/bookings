@@ -1,0 +1,9 @@
+mode: set
+github.com/NikaSoft-go/bookings/cmd/web/main.go:22.13,33.16 5 0
+github.com/NikaSoft-go/bookings/cmd/web/main.go:33.16,35.3 1 0
+github.com/NikaSoft-go/bookings/cmd/web/main.go:38.18,55.16 10 1
+github.com/NikaSoft-go/bookings/cmd/web/main.go:55.16,58.3 2 0
+github.com/NikaSoft-go/bookings/cmd/web/main.go:60.2,68.12 6 1
+github.com/NikaSoft-go/bookings/cmd/web/middleware.go:9.45,19.2 3 1
+github.com/NikaSoft-go/bookings/cmd/web/middleware.go:22.50,24.2 1 1
+github.com/NikaSoft-go/bookings/cmd/web/routes.go:11.49,37.2 18 1
