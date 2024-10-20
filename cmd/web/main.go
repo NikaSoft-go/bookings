@@ -2,14 +2,13 @@ package main
 
 import (
 	"fmt"
-	"log"
-	"net/http"
-	"time"
-
 	"github.com/NikaSoft-go/bookings/pkg/config"
 	"github.com/NikaSoft-go/bookings/pkg/handlers"
 	"github.com/NikaSoft-go/bookings/pkg/render"
 	"github.com/alexedwards/scs/v2"
+	"log"
+	"net/http"
+	"time"
 )
 
 const portNumber = ":8080"

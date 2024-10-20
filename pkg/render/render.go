@@ -3,13 +3,12 @@ package render
 import (
 	"bytes"
 	"fmt"
+	"github.com/NikaSoft-go/bookings/pkg/config"
+	"github.com/NikaSoft-go/bookings/pkg/models"
 	"html/template"
 	"log"
 	"net/http"
 	"path/filepath"
-
-	"github.com/NikaSoft-go/bookings/pkg/config"
-	"github.com/NikaSoft-go/bookings/pkg/models"
 )
 
 var functions = template.FuncMap{}
