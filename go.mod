@@ -8,3 +8,5 @@ require (
 	github.com/go-chi/chi v1.5.5
 	github.com/justinas/nosurf v1.1.1
 )
+
+require go.uber.org/goleak v1.3.0 // indirect
